@@ -1,1 +1,3 @@
 Learning log is a online journal system that lets the user keep track of information about different topics. This is a project inspired by the book "Python Crash Course" by Eric Matthes.
+
+The web app will allow users to log the topics they're interested in and make journal entries as they learn about each topic. The Learning Log home  page will describe the site and invite users to either register or log in. Once they log in, a user can create new topics, add new entries and read and edit existing entries. This will allow the user to keep track of new information and infromation already found. 
