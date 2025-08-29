@@ -1,1 +1,1 @@
-# learning-log
+Learning log is a online journal system that lets the user keep track of information about different topics. This is a project inspired by the book "Python Crash Course" by Eric Matthes.
